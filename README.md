@@ -26,7 +26,7 @@ if __name__ == '__main__':
 ```
 Output:
 ```
-8
+7
 KatsFan
 ```
 
@@ -37,3 +37,13 @@ KatsFan
 * [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
 This README will be updated with more information as progress on this package continues.
+
+## Installation
+
+Currently, `realmeye.py` can be installed directly from [GitHub](https://github.com/thedrdu/realmeye.py) via the following command:
+
+```
+pip install git+https://github.com/thedrdu/realmeye.py
+```
+
+Once the official release on PyPI happens, this page will be updated accordingly.
